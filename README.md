@@ -18,7 +18,7 @@ npx suyashdev
 
 ## 🌐 Connect with Me
 
-- GitHub: [github.com/yourusername](https://github.com/suyash-boop)  
+- GitHub: [github.com/suyash-boop](https://github.com/suyash-boop)  
 
 
 ---
